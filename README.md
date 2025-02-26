@@ -20,7 +20,6 @@ On my GitHub, you can find both open-source projects and projects developed with
 ### 📫 Contact Me:
 Feel free to reach out via:
 - GitHub: https://github.com/jcxmarena
-- LinkedIn: https://www.linkedin.com/in/javier-camarena-173959232/
 
 Let's connect and build amazing things together! 🚀
 
