@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello! I'm Javier Camarena
 
-<!--
-**jcxmarena/jcxmarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web Application Developer & Electrotechnical Systems Technician
 
-Here are some ideas to get you started:
+I am a passionate **Web Application Developer** and **Technician in Electrotechnical and Automated Systems**. I enjoy creating efficient and scalable solutions, both in web development and industrial automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Skills:
+- **Programming Languages:** PHP, JavaScript, Java, Python
+- **Web Development:** HTML, CSS
+- **Automation & Control:** PLC Automation
+
+### 🚀 About Me:
+- 🔹 I love solving complex problems with clean and maintainable code.
+- 🔹 Constantly learning and improving my skills.
+- 🔹 Interested in web development, automation, and embedded systems.
+
+### 📂 My GitHub:
+On my GitHub, you can find both open-source projects and projects developed within the scope of my studies.
+
+### 📫 Contact Me:
+Feel free to reach out via:
+- GitHub: https://github.com/jcxmarena
+- LinkedIn: https://www.linkedin.com/in/javier-camarena-173959232/
+
+Let's connect and build amazing things together! 🚀
+
+
